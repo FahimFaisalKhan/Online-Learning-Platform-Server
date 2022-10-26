@@ -12,7 +12,7 @@ app.get("/allCourses", (req, res) => {
   res.send(courses);
 });
 app.get("/:id", (req, res) => {
-  const requestedId = parseInt(req.params.id);
+  const requestedId = +req.params.id;
   const courseToSend = courses.find((course) => {
     return course.id === requestedId && course;
   });
