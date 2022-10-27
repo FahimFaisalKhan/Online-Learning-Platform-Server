@@ -10,7 +10,7 @@
     "longDescription": "When it comes to building web pages, the coding language can, at first glance, appear incredibly complex. It may seem rather daunting having to take all this new information on board, but by breaking down each of the different elements involved, you'll find that you can make sense of all these essential pieces of the puzzle.\n\n If you're thinking of building a website, then you'll almost certainly have come across the acronyms HTML and CSS. These two essential tools form some of the foundations of any webpage. However, although they're often used in conjunction with each other, they both serve very different purposes when it comes to web coding.The key differences lie in their implementation, ease of use, their various features, and how they are structured, but at the end of the day, both HTML and CSS are the keys to unlocking how the World Wide Web works.",
     "price": "199$",
     "instructor": "Mark Jukarbarg",
-    "time": "39 hours",
+    "time": "29hours",
     "learnings": [
       "Become a modern and confident HTML and CSS developer, no prior knowledge needed!",
       "Modern, semantic and accessible HTML5",
@@ -135,7 +135,7 @@
     "longDescription": "Python is an object-oriented (based around data), high-level (easier for humans to understand) programming language. First launched in 1992, it's built in a way that it's relatively intuitive to write and understand. As such, it's an ideal coding language for those who want rapid development.\n\n If you're wondering who uses Python, you'll find that many of the biggest organisations in the world implement it in some form. NASA, Google, Netflix, Spotify, and countless more all use the language to help power their services. According to the TIOBE index, which measures the popularity of programming languages, Python is the third most popular programming language in the world, behind only Java and C. ",
     "price": "159$",
     "instructor": "Elon Musk",
-    "time": "39 hours",
+    "time": "21 hours",
     "learnings": [
       "You will be able to use Python for your own work problems or personal projects.",
       "You will create a portfolio of Python based projects you can share.",
@@ -196,7 +196,7 @@
     "longDescription": "As we studied earlier, 'C' is a base language for many programming languages. So, learning 'C' as the main language will play an important role while studying other programming languages. It shares the same concepts such as data types, operators, control statements and many more. 'C' can be used widely in various applications. It is a simple language and provides faster execution. There are many jobs available for a 'C' developer in the current market. \n'C' is a structured programming language in which program is divided into various modules. Each module can be written separately and together it forms a single 'C' program. This structure makes it easy for testing, maintaining and debugging processes.'C' contains 32 keywords, various data types and a set of powerful built-in functions that make programming very efficient. \n\nAnother feature of 'C' programming is that it can extend itself. A 'C' program contains various functions which are part of a library. We can add our features and functions to the library. We can access and use these functions anytime we want in our program. This feature makes it simple while working with complex programming. Various compilers are available in the market that can be used for executing programs written in this language. It is a highly portable language which means programs written in 'C' language can run on other machines. This feature is essential if we wish to use or execute the code on another computer.",
     "price": "250$",
     "instructor": "Bill Gates",
-    "time": "39 hours",
+    "time": "40 hours",
     "learnings": [
       "Understand the fundamentals of the C Programming Language",
       "Make yourself more marketable for entry level programming positions",
@@ -259,7 +259,7 @@
     "longDescription": " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     "price": "119$",
     "instructor": "Sundar Pichai",
-    "time": "39 hours",
+    "time": "32 hours",
     "learnings": [
       "Master Machine Learning on Python",
       "Have a great intuition of many Machine Learning models",
@@ -308,7 +308,7 @@
     "longDescription": "The React.js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks.\n\n These components are individual pieces of a final interface, which, when assembled, form the application's entire user interface. React's primary role in an application is to handle the view layer of that application just like the V in a model-view-controller (MVC) pattern by providing the best and most efficient rendering execution. Rather than dealing with the whole user interface as a single unit, React.js encourages developers to separate these complex UIs into individual reusable components that form the building blocks of the whole UI. In doing so, the ReactJS framework combines the speed and efficiency of JavaScript with a more efficient method of manipulating the DOM to render web pages faster and create highly dynamic and responsive web applications.",
     "price": "339$",
     "instructor": "Jhankar Mahbub",
-    "time": "39 hours",
+    "time": "55 hours",
     "learnings": [
       "Build powerful, fast, user-friendly and reactive web apps",
       "Provide amazing user experiences by leveraging the power of JavaScript with ease",
