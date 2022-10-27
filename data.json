@@ -9,7 +9,7 @@
     "shortDescription": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
     "longDescription": "When it comes to building web pages, the coding language can, at first glance, appear incredibly complex. It may seem rather daunting having to take all this new information on board, but by breaking down each of the different elements involved, you'll find that you can make sense of all these essential pieces of the puzzle.\n\n If you're thinking of building a website, then you'll almost certainly have come across the acronyms HTML and CSS. These two essential tools form some of the foundations of any webpage. However, although they're often used in conjunction with each other, they both serve very different purposes when it comes to web coding.The key differences lie in their implementation, ease of use, their various features, and how they are structured, but at the end of the day, both HTML and CSS are the keys to unlocking how the World Wide Web works.",
     "price": "199$",
-    "instructor": "Korim",
+    "instructor": "Mark Jukarbarg",
     "time": "39 hours",
     "learnings": [
       "Become a modern and confident HTML and CSS developer, no prior knowledge needed!",
@@ -73,7 +73,7 @@
     "shortDescription": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
     "longDescription": "Javascript (JS) is a scripting languages, primarily used on the Web. It is used to enhance HTML pages and is commonly found embedded in HTML code. JavaScript is an interpreted language. Thus, it doesn't need to be compiled. JavaScript renders web pages in an interactive and dynamic fashion. This allowing the pages to react to events, exhibit special effects, accept variable text, validate data, create cookies, detect a user's browser, etc.\n\n HTML pages are fine for displaying static content, e.g. a simple image or text. However, most pages nowadays are rarely static. Many of today's pages have menus, forms, slideshows and even images that provide user interaction. Javascript is the language employed by web developers to provide such interaction. Since JavaScript works with HTML pages, a developer needs to know HTML to harness this scripting language's full potential. While there are other languages that can be used for scripting on the Web, in practice it is essentially all Javascript.",
     "price": "239$",
-    "instructor": "Korim",
+    "instructor": "Steve Jobs",
     "time": "39 hours",
     "learnings": [
       "Become an advanced, confident, and modern JavaScript developer from scratch",
